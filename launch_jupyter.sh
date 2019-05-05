@@ -1,5 +1,5 @@
 #!/bin/bash
 
-jupyter notebook --no-browser --port 8889
+jupyter notebook --no-browser --port 8899
 
 
